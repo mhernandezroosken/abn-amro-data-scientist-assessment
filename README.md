@@ -1,13 +1,6 @@
 # abn-amro-data-science-assessment-sme
 ABN AMRO Data Science assessment. EDA and forecasting of SME mortgage data.
 
-## Requirements
-
-Install the requirements by running:
-
-`conda en create --file=mortgages-py38.yaml`
-`conda activate mortgages-py38`
-
 ## Running
 
 To train and predict with ARIMA:
